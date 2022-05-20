@@ -1,2 +1,2 @@
 # developers-google
-Repository for all tests and tutorials on developers.google.com
+Repository for tutorials and exercises on developers.google.com
